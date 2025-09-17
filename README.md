@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Navaneeth Krishnan S
+
+Software Developer | Java | Spring Boot | Microservices | REST APIs | MySQL
 
 <!--
 **navaneethkrishnan2000/navaneethkrishnan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
