@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!&reversal=false&textBg=false&descAlign=50&animation=fadeIn&section=header&fontSize=65&descAlignY=60)"/>
-</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!&fontSize=64&section=header&fontAlignY=42"></img>
+  
 ## Hi there 👋 I'm Navaneeth Krishnan S
 
 Software Developer | Java | Spring Boot | Microservices | REST APIs | MySQL
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontSize=64&section=footer"></img>
 
 <!--
 **navaneethkrishnan2000/navaneethkrishnan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
