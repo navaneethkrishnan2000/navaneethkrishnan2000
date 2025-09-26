@@ -4,10 +4,11 @@
 
 **Software Developer | Java | Spring Boot | Microservices | REST APIs | ReactJS | MySQL**  
 
-I am a **Software Engineer** passionate about building scalable backend systems and seamless user experiences.  
+I am a **Software Engineer** passionate about building scalable backend systems and seamless user experiences, and exploring new technologies.  
 Experienced in designing and developing **scalable and maintainable backend systems** while ensuring high performance and reliability.  
 Skilled in **database design, event-driven architecture, and integrating third-party services**.  
-Adept at **cross-functional collaboration, clean code practices, and continuous improvement**.  
+Adept at **cross-functional collaboration, clean code practices, and continuous improvement**. 
+Open to collaborating on innovative projects, open-source contributions, and impactful products.  
 
 ---
 
@@ -20,19 +21,7 @@ Adept at **cross-functional collaboration, clean code practices, and continuous 
 - **Core Expertise:** Microservices, REST APIs, Secure Authentication, Payment Gateway Integrations (Razorpay, Stripe)
 
 ---
-<!--
-## 📂 Projects  
-
-- **🛒 Shoppix (E-Commerce Platform)**  
-  Microservices-based platform with **OTP login, product & category management, offers, loyalty points, and payment integration**.  
-
-- **🚖 Ride Booking Application**  
-  End-to-end ride-booking solution with **user, driver, and admin modules**, including ride history, reviews, and **Razorpay integration**.  
-
-- **💬 Chat Application**  
-  Real-time chat platform powered by **Spring Boot backend** and **React frontend**.  
---> 
-
+ 
 ## 📫 Contact   
 
 - **Email:** <a href="mailto:jhddfaefuaefr@gmail.com">Send me an Email</a>  
